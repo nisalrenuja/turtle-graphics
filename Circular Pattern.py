@@ -13,3 +13,6 @@ for i in range(3):
         pensize(3)
         circle(100)
         forward(10)
+        left(10)
+
+hideturtle()
